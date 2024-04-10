@@ -1,1 +1,3 @@
 sai
+file/*
+!f1.txt
