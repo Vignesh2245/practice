@@ -1,2 +1,2 @@
-this is from location & remote
+ i am this is not location & remote
 adding from remote
