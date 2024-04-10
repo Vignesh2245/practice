@@ -1,3 +1,2 @@
-*.py merge=union
-* text=auto
-
+# Exclude tests and CI configurations from archives
+/tests export-ignore
