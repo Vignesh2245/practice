@@ -1,2 +1,2 @@
-this is from local
+this is from local & remote
 adding from remote
