@@ -1,2 +1,1 @@
- i am this is not location & remote
-adding from remote
+this is new content from remote
